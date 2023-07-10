@@ -1,0 +1,8 @@
+Sleep(1000)
+Send("C:\Users\HP\OneDrive\Documents\Anuu.docx")
+Sleep(1000)
+Send("{TAB}")
+Sleep(1000)
+Send("{TAB}")
+Sleep(1000)
+Send("{ENTER}")
